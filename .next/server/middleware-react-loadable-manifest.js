@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/components/ResultsGallery.tsx -> file-saver":{"id":97,"files":["static/chunks/97.923d65afe53c69c2.js"]},"app/components/ResultsGallery.tsx -> jszip":{"id":7496,"files":["static/chunks/496.6561c8ff55fb0785.js"]}}';
